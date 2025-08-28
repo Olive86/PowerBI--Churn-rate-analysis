@@ -68,16 +68,8 @@ Mention how many tables are in the dataset.
 
 Table 1: Products Table  
 
-👉🏻 Insert a screenshot of table schema. if table is too long, only show a snapshot of it. Recommend to put it in a toggle format
 
- _Example:_
 
-| Column Name | Data Type | Description |  
-|-------------|----------|-------------|  
-| Product_ID  | INT      | Unique identifier for each product |  
-| Name        | TEXT     | Product name |  
-| Category    | TEXT     | Product category |  
-| Price       | FLOAT    | Price per unit |  
 
 
 
