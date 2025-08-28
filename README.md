@@ -4,10 +4,10 @@
 
 Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
 
-# 📊 Project Title: [Your Project Name]  
-Author: [Your Name]  
-Date: YYYY-MM-DD  
-Tools Used: SQL/ Power BI/ Python  
+# 📊 Project Title: [Churn Analysis: Customer Retention Intelligence Dashboard]  
+Author: [Thi Hai Dang (Olive Dang]  
+Date: 2025-01-08  
+Tools Used:  Power BI 
 
 ---
 
@@ -25,27 +25,22 @@ Tools Used: SQL/ Power BI/ Python
 ### Objective:
 ### 📖 What is this project about? 
  
-- Provide a brief introduction to the project. Define the problem statement/ business question that this project will show and why it is important.
-- Write in bullet point format
-
- _Example:_
-
- This project analyzes sales trends and inventory control using SQL and Power BI. The objective is
-✔️ Identify high-demand products and sales trends.  
-✔️ Optimize inventory levels to prevent overstocking or stockouts.  
-✔️ Provide actionable insights through Power BI dashboards.  
+This project is about turning raw customer and usage data into insights that explain customer churn, measure its financial impact, and guide strategies to keep customers loyal.
+🎯 Key Objectives:
+✔️ Identify churn drivers – Understand which customer behaviors, demographics, or service issues most influence churn.  
+✔️ Segment customers by risk – Classify customers into churn-risk categories (high, medium, low). 
+✔️ Support retention strategies – Provide insights for tailored offers, contract adjustments, and customer service improvements.
+✔️Enable proactive decision-making – Deliver a dashboard for managers to monitor churn trends and act in real time.
 
 ### 👤 Who is this project for?  
 
-Mention who might benefit from this project 
-
- _Example:_
-
 ✔️ Data analysts & business analysts  
-✔️ Supply chain managers & inventory controllers  
+✔️ Senior Management / Executives 
+✔️ Customer Retention / Marketing Team
+✔️Product & Pricing Managers
 ✔️ Decision-makers & stakeholders  
 
----
+
 
 ## 📂 Dataset Description & Data Structure  
 
