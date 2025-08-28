@@ -27,6 +27,7 @@ Tools Used:  Power BI
  
 This project is about turning raw customer and usage data into insights that explain customer churn, measure its financial impact, and guide strategies to keep customers loyal.
 🎯 Key Objectives:
+
 ✔️ Identify churn drivers – Understand which customer behaviors, demographics, or service issues most influence churn.  
 ✔️ Segment customers by risk – Classify customers into churn-risk categories (high, medium, low). 
 ✔️ Support retention strategies – Provide insights for tailored offers, contract adjustments, and customer service improvements.
@@ -35,9 +36,13 @@ This project is about turning raw customer and usage data into insights that exp
 ### 👤 Who is this project for?  
 
 ✔️ Data analysts & business analysts  
+
 ✔️ Senior Management / Executives 
+
 ✔️ Customer Retention / Marketing Team
+
 ✔️Product & Pricing Managers
+
 ✔️ Decision-makers & stakeholders  
 
 
