@@ -102,6 +102,9 @@ Describe the connections between tables—e.g., one-to-many, many-to-many.
 
 Explain the step-by-step approach taken to solve the problem.  
 
+<img width="1088" height="735" alt="image" src="https://github.com/user-attachments/assets/bfa08db2-3308-48b6-a019-77aff1da1244" />
+
+
 👉🏻 Insert a screenshot of the Design Thinking steps (Screenshot your Excel design thinking tables for better presentation).  
 
 1️⃣ Empathize  
@@ -112,7 +115,6 @@ Explain the step-by-step approach taken to solve the problem.
 ---
 
 ## ⚒️ Main Process
-<img width="1088" height="735" alt="image" src="https://github.com/user-attachments/assets/bfa08db2-3308-48b6-a019-77aff1da1244" />
 
 
 1️⃣ Data Cleaning & Preprocessing 
