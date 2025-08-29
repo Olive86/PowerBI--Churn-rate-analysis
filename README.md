@@ -1,4 +1,4 @@
-<img width="908" height="611" alt="image" src="https://github.com/user-attachments/assets/2ffb5210-cb11-460a-9dea-e9c282dd39a1" /># PowerBI--Churn-rate-analysis[README.md](https://github.com/user-attachments/files/22024202/README.md)
+# PowerBI--Churn-rate-analysis[README.md](https://github.com/user-attachments/files/22024202/README.md)
 ---
 ![E-commerce Website_Analysis](https://github.com/Dorothy-Ho-Vy/Sample-Readme-template/blob/0e47d32968459ec80d7d2666fbf5044ac56894e6/1.png)
 
