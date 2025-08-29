@@ -1,4 +1,4 @@
-# PowerBI--Churn-rate-analysis[README.md](https://github.com/user-attachments/files/22024202/README.md)
+<img width="908" height="611" alt="image" src="https://github.com/user-attachments/assets/2ffb5210-cb11-460a-9dea-e9c282dd39a1" /># PowerBI--Churn-rate-analysis[README.md](https://github.com/user-attachments/files/22024202/README.md)
 ---
 ![E-commerce Website_Analysis](https://github.com/Dorothy-Ho-Vy/Sample-Readme-template/blob/0e47d32968459ec80d7d2666fbf5044ac56894e6/1.png)
 
@@ -62,7 +62,8 @@ This project is about turning raw customer and usage data into insights that exp
 ### 📊 Data Structure & Relationships  
 
 #### 1️⃣ Tables Used:  
-Mention how many tables are in the dataset.  
+<img width="942" height="646" alt="image" src="https://github.com/user-attachments/assets/d3f52d85-89a7-441b-8c34-f55b8c41c241" />
+
 
 #### 2️⃣ Table Schema & Data Snapshot  
 
