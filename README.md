@@ -57,7 +57,7 @@ This project is about turning raw customer and usage data into insights that exp
 ### 📌 Data Source  
 - Source: (Mention where the dataset is obtained from—Kaggle, company database, government sources, etc.)  
 - Size: (Mention the number of rows & columns)  
-- Format: (.csv, .sql, .xlsx, etc.)  
+- Format:  .xlsx 
 
 ### 📊 Data Structure & Relationships  
 
