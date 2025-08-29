@@ -112,6 +112,8 @@ Explain the step-by-step approach taken to solve the problem.
 ---
 
 ## ⚒️ Main Process
+<img width="1088" height="735" alt="image" src="https://github.com/user-attachments/assets/bfa08db2-3308-48b6-a019-77aff1da1244" />
+
 
 1️⃣ Data Cleaning & Preprocessing 
 2️⃣ Exploratory Data Analysis (EDA)  
