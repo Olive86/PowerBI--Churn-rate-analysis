@@ -56,8 +56,8 @@ This project is about turning raw customer and usage data into insights that exp
 
 ### 📌 Data Source  
 - Source: (Mention where the dataset is obtained from—Kaggle, company database, government sources, etc.)  
-- Size: (Mention the number of rows & columns)  
-- Format:  .xlsx 
+- Size: 27 columns and 6687 rows.
+- Format:  .xlsx
 
 ### 📊 Data Structure & Relationships  
 
